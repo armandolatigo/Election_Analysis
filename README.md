@@ -9,7 +9,8 @@ Module 3 - Python
 
 ### Election results are as follows:
 
- ![Uploading Screen Shot 2021-11-15 at 7.12.51 PM.png…]()
+ ![This is an image]<img width="357" alt="Screen Shot 2021-11-15 at 7 12 51 PM" src="https://user-images.githubusercontent.com/92451164/141878976-522bf065-e157-43a1-a48f-f7c2c78b9774.png">
+
 
 ## Election Audit Summary
 
