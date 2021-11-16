@@ -9,7 +9,7 @@ Module 3 - Python
 
 ### Election results are as follows:
 
-0000000
+ ![Uploading Screen Shot 2021-11-15 at 7.12.51 PM.png…]()
 
 ## Election Audit Summary
 
